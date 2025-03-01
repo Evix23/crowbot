@@ -6,5 +6,5 @@
     "maximum_leaderboard": 50,
     "embedcolor": "GREEN",
     "logsColor": "RANDOM",
-    "mongoPass": "mongodb+srv://dbUser:XHdWbC3cLTdXHCzM@cluster0.ivqv1.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    "mongoPass": "mon token ici"
 }
